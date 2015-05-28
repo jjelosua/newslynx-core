@@ -54,4 +54,6 @@ mail_server:
 smtp_port: 
 imap_port: 
 
-
+# app variables
+newslynx_app_secret_key: 
+newslynx_app_super_user_password: 
